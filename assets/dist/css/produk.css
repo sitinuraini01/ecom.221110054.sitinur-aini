@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.pro{
+    text-align: center;
+    padding-top: 3em;
+}
+.pro h2{
+    font-weight: bold;
+    letter-spacing: 0.2em;
+}
+.pro span{
+    color:  rgb(172, 100, 100);
+    font-size: small;
+    font-weight: normal;
+}
+.pro p{
+    padding-bottom: 1em;
+}
+body{
+        background-color: #f9f6f2;
+}
+
+.card-img-top{
+    border-radius: 50px;
+    padding: 20px;
+}
+.card{
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+}
+.card-body{
+    padding: 25px;
+    margin-top: -15px;
+}
+.btn-primary{
+    background-color: rgb(172, 100, 100);
+    border-radius: 50px;
+    width: 60px;
+}
+.btn-primary:hover{
+    background-color:  rgb(192, 154, 154);
+    border: none;
+}
+h3,h5{
+    color: rgb(102, 64, 42);
+}
+.container-py-5 h1{
+    font-size: 30x;
+}
